@@ -1,1 +1,3 @@
 My favorite function on the most recent iOS update is the "dark mode" feature. You can go to Settings > Display & Brightness, and select Dark Mode. This turns the background of most apps black instead of white. This feature has been adopted by many apps and web services. Apple was kind of late to this honestly. No more blinding messages screen when laying in bed at 11 at night. Another reason it appeals to me is that there is a certain aesthetic to it.
+
+Another OS function is device management for their respective drivers. It keeps track of all the devices that are connected to the system. It also designates a program responsible for all the evices known as the input/output controllers. It can also choose which process gets access to devices, and for how long.
